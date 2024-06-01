@@ -13,3 +13,11 @@ Dashboard Creation:
 Designed an interactive dashboard in Excel to visually represent the analyzed data. Included various charts and graphs, such as bar graphs, line charts, and heat maps, to effectively communicate insights. Implemented slicers and interactive filters to allow users to explore data by specific segments and criteria.
 
 The resulting dashboard offers an intuitive interface for stakeholders to gain insights into user engagement, facilitating data-driven decision-making to improve user interaction strategies. Make this brief and better
+
+**Client description based on your project**
+ * I leveraged my data analysis skills to clean and analyze social media data, identifying trends in user interaction and engagement.
+ * I created an interactive dashboard to visualize these insights, empowering stakeholders to make data-driven decisions to improve user engagement strategies.
+
+**Further Tools**
+   Google sheets
+   Foxit  Reader
